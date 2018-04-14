@@ -10,3 +10,6 @@ Chip8 emulator written in Java, to use it you just need to feed it with input ev
 - On screen virtual keyboard and normal keyboard support
 - On screen window with list of current program opcodes with current SP & PC values (usefull with step simulation combined)
 - On screen indicator when program is waiting for key press or if some breakpoint is reached
+
+## Screenshots
+![Wololo](/../master/screens/full_opts.png?raw=true "Wolololo!")
